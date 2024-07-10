@@ -1,4 +1,4 @@
-# Project Title
+# Social Media Sentiment Analysis System
 
 A Mini project that can analyse the sentiment of whatever string that is passed in
 
