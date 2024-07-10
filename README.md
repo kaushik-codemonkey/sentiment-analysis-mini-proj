@@ -23,6 +23,7 @@ curl --location 'http://127.0.0.1:5001/train-model' \
     "trainingFile": "social_media_comments.csv"
 }'
 ```
+#### Note: The time taken to train a model varies based on the size of dataset, but bigger the dataset (and also accurate), the accuracy of the prediction will also be high
 
 ```POST /predict```: Hit this api to get the sentiment of a single stretch of string
 sample:
